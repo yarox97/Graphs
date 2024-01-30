@@ -1,0 +1,10 @@
+C:\Users\anijmus\Desktop\YARIK\Project Graphs C#\GrafyRysowanie-master\GrafyRysowanie\obj\Debug\GrafyRysowanie.csproj.AssemblyReference.cache
+C:\Users\anijmus\Desktop\YARIK\Project Graphs C#\GrafyRysowanie-master\GrafyRysowanie\obj\Debug\GrafyRysowanie.Form1.resources
+C:\Users\anijmus\Desktop\YARIK\Project Graphs C#\GrafyRysowanie-master\GrafyRysowanie\obj\Debug\GrafyRysowanie.Properties.Resources.resources
+C:\Users\anijmus\Desktop\YARIK\Project Graphs C#\GrafyRysowanie-master\GrafyRysowanie\obj\Debug\GrafyRysowanie.csproj.GenerateResource.cache
+C:\Users\anijmus\Desktop\YARIK\Project Graphs C#\GrafyRysowanie-master\GrafyRysowanie\obj\Debug\GrafyRysowanie.csproj.CoreCompileInputs.cache
+C:\Users\anijmus\Desktop\YARIK\Project Graphs C#\GrafyRysowanie-master\GrafyRysowanie\bin\Debug\GrafyRysowanie.exe.config
+C:\Users\anijmus\Desktop\YARIK\Project Graphs C#\GrafyRysowanie-master\GrafyRysowanie\bin\Debug\GrafyRysowanie.exe
+C:\Users\anijmus\Desktop\YARIK\Project Graphs C#\GrafyRysowanie-master\GrafyRysowanie\bin\Debug\GrafyRysowanie.pdb
+C:\Users\anijmus\Desktop\YARIK\Project Graphs C#\GrafyRysowanie-master\GrafyRysowanie\obj\Debug\GrafyRysowanie.exe
+C:\Users\anijmus\Desktop\YARIK\Project Graphs C#\GrafyRysowanie-master\GrafyRysowanie\obj\Debug\GrafyRysowanie.pdb
